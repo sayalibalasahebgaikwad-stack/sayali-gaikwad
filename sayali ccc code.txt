@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Basic css styling <\title>
+</head>
+<style>
+/*styling the body*/
+<body>{
+background-color:f4f4f4;
+font-family:Arial,sans-serif;
+padding:20px;
+}
+/*styling h1 tag*/
+h1{
+color:darkblue;
+text-align:center;
+font-size:40px;
+  }
+/*styling paragraph*/
+p{
+color:333;
+line-size:1.6;
+     font-size:18px;
+  }
+/*styling links*/
+a {
+  color:red;
+  text-decoration:name;
+  }
+  {
+/*styling button*/
+  button}
+background-color:green;
+color:white;
+pudding;10px20px;
+border-radius:6px;
+cursor:pointer;
+}
+button:hover}
+background-color:red;
+{
+/*styling images*/
+img}
+width-200px;
+border-radius:10px;
+{
+/*styling a div box*/
+box}
+background:white;
+padding:20px;
+border:2pxsolid#ddd;
+width:300px;
+margin:20pxauto;
+text-align:center;
+border-radius:10px;
+</style>
+</head>
+<body>
+<h1>welcome,sayali!</h1>
+<div class="box">
+this webpage belongs to 
+<b>sayali gaikwad</b>
+</div>
+</body>
+</html>
+
+      
+     
